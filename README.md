@@ -3,7 +3,7 @@
 
 ### **Motivação:**
 
-Testar meus conhecimentos sobre a resolução de problemas de negócios, análise de dados e aplicação de modelos preditivos, por meio de um desafio feito pela INDICIUM
+Testar meus conhecimentos sobre a resolução de problemas de negócios, análise de dados e aplicação de modelos preditivos, por meio de um desafio feito pela [INDICIUM](https://indicium.tech/)
 
 ### **O desafio:**
 
